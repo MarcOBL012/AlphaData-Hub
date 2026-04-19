@@ -8,7 +8,7 @@ Automated Financial Extraction and Modeling Engine
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-LSTM_Forecasting-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Selenium](https://img.shields.io/badge/Selenium-Web_Scraping-43B02A?style=for-the-badge&logo=selenium)
 
-**NexusFin Terminal** is an automated, institutional-grade system designed to centralize, process, and project macroeconomic and financial data. Inspired by platforms like the Bloomberg Terminal, this system extracts information from various official sources and international consulting firms, consolidating descriptive statistics and predictive models with a **single click**.
+**AplhaData Hub** is an automated, institutional-grade system designed to centralize, process, and project macroeconomic and financial data. Inspired by platforms like the Bloomberg Terminal, this system extracts information from various official sources and international consulting firms, consolidating descriptive statistics and predictive models with a **single click**.
 
 ## 🚀 Key Features
 
