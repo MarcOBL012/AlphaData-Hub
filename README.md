@@ -24,9 +24,9 @@ The system is divided into specialized modules that can be executed independentl
 
 1.  **`Scraping_SBS.py` / `extraer.py`**: A robust engine using Selenium to bypass blocks, tasked with extracting the complete historical exchange rate from the SBS portal.
 2.  **`lstm.py`**: A Machine Learning module that ingests SBS data, scales values (MinMaxScaler), and trains an LSTM model to forecast the next day's exchange rate.
-3.  **`hazme.py` / `CHINA.py`**: Connectors to the FRED API to extract, resample (quarterly to monthly), and calculate YoY variations of macro indicators for the US and China.
-4.  **`recrea.py`**: Fixed income analyzer. It cross-references coupon and maturity data with the BCRP yield curve to calculate the modified duration of Sovereign Bonds.
-5.  **`quete.py` / `scraping_metales.py`**: Commodity projection collector, cleaning text via Regex from web reports and structuring the market consensus medians.
+3.  **`Hz1.py` / `CHINA.py`**: Connectors to the FRED API to extract, resample (quarterly to monthly), and calculate YoY variations of macro indicators for the US and China.
+4.  **`RCR.py`**: Fixed income analyzer. It cross-references coupon and maturity data with the BCRP yield curve to calculate the modified duration of Sovereign Bonds.
+5.  **`QUET1.py` / `scraping_metales.py`**: Commodity projection collector, cleaning text via Regex from web reports and structuring the market consensus medians.
 
 ## 🛠️ Technologies Used
 
