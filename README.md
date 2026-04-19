@@ -40,9 +40,8 @@ The system is divided into specialized modules that can be executed independentl
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/nexusfin-terminal.git](https://github.com/your-username/nexusfin-terminal.git)
-   cd nexusfin-terminal
-
+   git clone https://github.com/MarcOBL012/AlphaData-Hub.git
+   cd AlphaData-Hub
     ```
 
 2. Install the required dependencies:
